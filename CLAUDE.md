@@ -11,6 +11,7 @@ One-page campaign website for Ryan Lee, a **write-in candidate** for **County Co
 - **Repo**: https://github.com/devmountain9600/RyanLeeForCommissioner
 - **Domain**: `writeinryanlee.com` (purchased at GoDaddy)
 - **DNS**: Cloudflare (nameservers migrated from GoDaddy to Cloudflare)
+- **Donations**: GoDaddy PayLink at `https://pay.writeinryanlee.com/donate` (CNAME `pay` → `paylinks.commerce.godaddy.com` in Cloudflare DNS) — same pattern as taylorforsheriff.org.
 - **Build**: none — static site, Cloudflare serves repo root as-is
 
 ## Deploy Workflow
